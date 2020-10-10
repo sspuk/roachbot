@@ -1,0 +1,8 @@
+REDDIT_CLIENT_ID = "Reddit client ID here"
+REDDIT_CLIENT_SECRET = "Reddit client secret here"
+REDDIT_USER_AGENT = "Reddit user agent"
+
+DISCORD_TOKEN="Discord token here"
+GIPHY_TOKEN="Giphy token here"
+
+
